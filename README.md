@@ -9,3 +9,4 @@ Tecnologias utilizadas:
 - Web Speech API
 - Vercel AI SDK
 - Vercel Postgres
+-
